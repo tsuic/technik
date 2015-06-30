@@ -1,7 +1,7 @@
 
         var baseSearchURL = "https://api.fda.gov/drug/label.json?";
         var limit = 100;
-        var brandSearchTerm = "Advil"; /* default search term */
+        var brandSearchTerm = "Tylenol"; /* default search term */
         var results;
         var openFDAKey = "uN2mlhVgIcwgvh8FrfmpT5f7U65RGxnrtrZCxInc"; /* API key for openFDA queries */
         var bingKey = "QF9SCR10hDCGhqhkCv3XV54bsoSEIn2bEXEsec4z7Bs="; /* API key for Windows Azure Marketplace Bing Image Search queries */
